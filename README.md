@@ -12,6 +12,8 @@ Voici les étapes effectuées par le script :
 7. Écriture du fichier PDF crypté sur le disque dur avec un nouveau nom de fichier qui commence par "secure_" pour indiquer qu'il est protégé.
 8. Impression d'un message de confirmation à l'écran indiquant que le fichier PDF a été crypté avec succès avec le mot de passe spécifié.
 
+# Comment utiliser ce script
+
 Pour utiliser ce script, placez-le dans le même répertoire que le fichier PDF que vous voulez sécurisé.
 Exécutez le script dans un terminal Linux avec la commande suivante :
 **python3 "PDF sécurisé par mot de passe.py"**
