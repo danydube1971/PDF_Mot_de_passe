@@ -1,3 +1,5 @@
+#Ce script permet de protéger un fichier PDF en le cryptant avec un mot de passe.
+
 import PyPDF2
 
 # Récupération du nom du fichier PDF à protéger et du mot de passe à utiliser
